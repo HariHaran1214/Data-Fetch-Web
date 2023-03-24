@@ -25,6 +25,7 @@ Upcoming features that are in development,
 
 - Populating data from database 
 - Adding a login page
+- Dockerize 
 
 
 ![Logo](https://i.ibb.co/DQzNLqR/Metazord-Logo.png)
